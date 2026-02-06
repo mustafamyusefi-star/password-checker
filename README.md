@@ -34,7 +34,7 @@ Make sure Python 3 is installed
 
 Clone the repository:
 
-git clone https://github.com/yourusername/password-strength-checker.git
+git clone https://github.com/mustafamyusefi-star/password-checker.git
 
 
 Navigate to the project folder:
@@ -60,14 +60,10 @@ Working with strings and user input
 
 Possible Improvements
 
-Add GUI (Tkinter or PyQt)
-
-Add password suggestions
-
 Integrate with a web application
 
 Support multiple languages
 
 Author
 
-Created by [Your Name]
+Created by MosiKing
